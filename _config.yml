@@ -790,7 +790,7 @@ extends:
     - <script async src="/js/fps.js"></script>
     - <script src="/js/canvas-nest-mouse.min.js"></script>
     - <script defer data-pjax src="/js/readPercent.js"></script>
-    - <script async data-pjax src="/js/txmap.js"></script> # 腾讯位置API
+    # - <script async data-pjax src="/js/txmap.js"></script> # 腾讯位置API
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
