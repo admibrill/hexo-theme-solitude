@@ -82,7 +82,7 @@ nav:
 hometop:
   enable: true
   banner:
-    title: 所有的进步<br >都在路上 # 大字
+    title: Run the code,<br >run after the code # 大字
     desc:
       - 你聪明的，告诉我，我们的代码为什么一提交不AC呢？
     icon:
@@ -149,7 +149,7 @@ aside:
       img: /avatar_.ico # url
       sticker: # url, 24x24 size
     # 介绍 / Introduction
-    description: 所有的进步都在路上
+    description: Run the code, run after the code
     # 内容 / Content
     content: 欢迎来到我的博客！
     state:
@@ -214,7 +214,7 @@ aside:
     runtimeenable: true
     # Format: yyyy-MM-dd hh-mm-ss
     # 格式: yyyy-MM-dd hh-mm-ss
-    runtime: "2024-10-8 00:00:00"
+    runtime: "2024-10-08 00:00:00"
   # --------------------------- end ---------------------------
 # --------------------------- end ---------------------------
 
@@ -577,8 +577,6 @@ footer:
   links:
     - name: 主题
       url: https://github.com/everfu/hexo-theme-solitude
-    - name: 萌ICP备20245408号
-      url: https://icp.gov.moe/?keyword=20245408
     - name: License
       url: https://github.com/everfu/hexo-theme-solitude/blob/main/LICENSE
       icon:
